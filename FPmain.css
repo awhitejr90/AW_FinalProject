@@ -26,3 +26,32 @@ li a {
 li a:hover {
     background-color: #111;
 }
+
+.column1 {
+	float: center;
+	width: 40%;
+	padding: 15px;
+	background-color: darkgray;
+	border: 1px solid black;
+}
+
+.column2 {
+	float: center;
+	width: 40%;
+	padding: 15px;
+	background-color: darkgray;
+	border: 1px solid black;
+}
+
+.column3 {
+	float: center;
+	width: 40%;
+	padding: 15px;
+	background-color: darkgray;
+	border: 1px solid black;
+}
+
+.musicweek {
+	width: 50%;
+	height: 50%;
+}
