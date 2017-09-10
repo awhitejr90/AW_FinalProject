@@ -27,28 +27,17 @@ li a:hover {
     background-color: #111;
 }
 
-.column1 {
+.column {
 	float: center;
-	width: 40%;
+	width: 50%;
 	padding: 15px;
 	background-color: darkgray;
 	border: 1px solid black;
 }
 
-.column2 {
-	float: center;
-	width: 40%;
-	padding: 15px;
-	background-color: darkgray;
-	border: 1px solid black;
-}
-
-.column3 {
-	float: center;
-	width: 40%;
-	padding: 15px;
-	background-color: darkgray;
-	border: 1px solid black;
+.main {
+	width: 70%;
+	height: 70%;
 }
 
 .musicweek {
