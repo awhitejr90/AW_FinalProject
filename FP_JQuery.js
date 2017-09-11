@@ -3,3 +3,7 @@
     		alert("Directory Coming Soon!")
     });
 });
+
+function myFunction() {
+    alert("Welcome Back!");
+}
